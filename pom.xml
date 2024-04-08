@@ -44,7 +44,9 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- LogStash is used to grab logs and moving somewhere in order to consolidate those -->
+		<!-- Logstash is a log pipeline tool that accepts inputs from various sources -->
+		<!-- executes different transformations, and exports the data to various targets. -->
+		<!-- It is a dynamic data collection pipeline with an extensible plugin ecosystem -->
 		<dependency>
 			<groupId>net.logstash.logback</groupId>
 			<artifactId>logstash-logback-encoder</artifactId>
