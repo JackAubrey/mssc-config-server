@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>guru.sfg.brewery</groupId>
 	<artifactId>mssc-config-server</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<name>mssc-config-server</name>
 	<description>Brewery Server Config</description>
 	<url>https://github.com/JackAubrey/mssc-config-server</url>
@@ -35,7 +35,7 @@
 		<connection>scm:git:git@github.com:JackAubrey/mssc-config-server.git</connection>
 		<developerConnection>scm:git:git@github.com:JackAubrey/mssc-config-server.git</developerConnection>
 		<url>https://github.com/JackAubrey/mssc-config-server</url>
-		<tag>1.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
