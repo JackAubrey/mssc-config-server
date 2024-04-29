@@ -33,7 +33,7 @@
                                 "stack_trace": "%ex{full}"
                             },
                             "pid": "${PID:-}",
-                            "thread": "%thread",
+                            "thread": "%thread"
                         }
                     </pattern>
                 </pattern>
